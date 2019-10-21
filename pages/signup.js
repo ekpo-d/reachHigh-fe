@@ -1,7 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
-// eslint-disable-next-line import/no-unresolved
-import Signup from '../src/components/auth/Signup';
+import Signup from '../src/components/auth/SignUp';
 
 import '../src/assets/styles/app.scss';
 
