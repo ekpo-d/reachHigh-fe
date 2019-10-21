@@ -9,7 +9,7 @@
     "dev": "npm-run-all --parallel lint-test next-dev",
     "next-dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p $PORT",
     "docs-watch": "npm-watch docs",
     "test": "node ./node_modules/.bin/jest --watchAll",
     "docs": "./node_modules/.bin/esdoc",
