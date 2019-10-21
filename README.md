@@ -18,7 +18,7 @@ A user has the ability to:
 * Axios (http client)
 * Eslint (For linting)
 * Esdoc (full app wide documentation within 'documentation' folder).
-* Jest (for testing).
+* Jest (tests unavailable due to config/dependency issues).
 
 ## Code Documentation
 Code documentation resides in the `/documentation` folder.

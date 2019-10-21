@@ -6,7 +6,7 @@
     "docs": "{pages,src/assets,components/common}/**/*.*"
   },
   "scripts": {
-    "dev": "npm-run-all --parallel lint-test next-dev",
+    "dev": "npm-run-all --parallel lint-watch next-dev",
     "next-dev": "next dev",
     "build": "next build",
     "start": "next start -p $PORT",

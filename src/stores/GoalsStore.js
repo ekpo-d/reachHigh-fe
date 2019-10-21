@@ -125,8 +125,12 @@ export default class GoalsStore {
     await patchData(`users/${this.user._id}`, {
 			selectedGoals: toJS(this.selectedGoals),
 		})
-		.then(() => {
+		.then(async () => {
+			runInActionUtil(this.user, 'selectedGoals', toJS(this.selectedGoals));
 			runInActionUtil(this, 'goalsSaving', false);
+			await this.calcTasks();
+		})
+		.then(() => {
 			Router.push('/tasks');
 		})
 		.catch(() => {
@@ -152,6 +156,7 @@ export default class GoalsStore {
 	calcTasks = async () => {
 		await Promise.all(this.user.selectedGoals.map(goal_id => getData(`goals/${goal_id}`)))
 		.then(goalsData => {
+			runInActionUtil(this, 'tasks', []);
 			// eslint-disable-next-line no-plusplus
 			for (let i = 0; i < goalsData.length; i++) {
 				// eslint-disable-next-line no-plusplus
@@ -191,10 +196,8 @@ export default class GoalsStore {
 	 */
 	@action
 	getTasks = () => {
-		if (!this.tasks.length) {
-			this.getUser()
-			.then(() => this.calcTasks());
-		}
+		this.getUser()
+		.then(() => this.calcTasks());
 	};
 
 	/**
@@ -231,6 +234,9 @@ export default class GoalsStore {
 			this.user.completedTasks.push(taskId);
 			await patchData(`users/${u_id}`, {
 				completedTasks: toJS(this.user.completedTasks),
+			})
+			.then(res => {
+				runInActionUtil(this.user, 'completedTasks', res.data.completedTasks);
 			})
 			.catch(() => {
 				this.uiStore.setClassProps([

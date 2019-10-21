@@ -38,7 +38,7 @@ class Tasks extends Component {
                     as={`tasks/${task._id}`}
                   >
                     {
-                      goalsStore.user.completedTasks.includes(task.title)
+                      goalsStore.user.completedTasks.includes(task._id)
                       ? (
                         <div className="btn-curve-gray">
                           Completed

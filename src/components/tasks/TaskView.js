@@ -68,7 +68,7 @@ class TaskView extends Component {
 
   render() {
     return (
-      <section id="tasks">
+      <section id="tasks" style={{ height: '100vh' }}>
         <div className="wrapper">
           {
             Object.keys(this.props.goalsStore.currentTask).length
