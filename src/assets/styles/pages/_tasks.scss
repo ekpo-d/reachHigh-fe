@@ -1,0 +1,98 @@
+#tasks {
+  @extend %goals-tasks;
+
+  .tile {
+    background: white;
+    border-radius: 5px;
+
+    p{
+      margin-bottom: 0;
+    }
+    .footer button {
+      width: 100%;
+    }
+    .heading {
+      background: $extraLightGray;
+      padding: 20px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center
+    }
+    .heading img {
+      width: 25px;
+      margin-right: 20px;
+    }
+    .heading p {
+      color: $darkgray;
+      font-size: 1.25em;
+      margin: 0;
+    }
+    .body {
+      padding: 40px 20px;
+    }
+    .body p {
+      text-align: center;
+    }
+    .footer {
+      padding: 10px 15px;
+    }
+    .btn-curve-purple {
+      padding: 10px;
+    }
+    .btn-curve-purple-stroke {
+      @extend .btn-curve-purple;
+      background: white;
+      color: $purple;
+      border: 1px solid $purple;
+
+      &:hover {
+        background: white;
+        color: $purple;
+      }
+    }
+  }
+  .btn-curve-gray {
+    @extend .btn-curve-purple;
+    background: $gray;
+
+    &:hover {
+      background: $gray;
+    }
+  }
+  .second-row {
+    display: flex;
+    align-items: center;
+
+     img {
+       height: 50px;
+       margin-right: 20px;
+     }
+     p {
+       margin: 0;
+     }
+    .one {
+      flex: 1;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+    }
+    .two {
+      flex: 4;
+      display: flex;
+      flex-direction: row-reverse;
+    }
+    .btn-curve-purple {
+      padding: 10px 20px;
+    }
+  }
+  .text-content {
+    background: white;
+    padding: 30px;
+    border-radius: 5px;
+  }
+  .text {
+    font-size: 1.25em;
+    color: $almostBlack;
+  }
+}

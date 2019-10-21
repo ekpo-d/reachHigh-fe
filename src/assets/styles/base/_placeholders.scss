@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600&display=swap');
+
+$purple : #8064FF;
+
+$green: #81d76d;
+$lightGray: #E0E0E0;
+$extraLightGray: #F3F3F3;
+$gray: #8e8e8e;
+$gray2: #e0e0e0;
+$darkgray: #535353;
+$almostBlack: #333333;
+$blue: #4399FF;
+$red: #FF4A4A;
+
+@mixin shadow($a, $b, $c, $d) {
+  box-shadow: $a $b $c $d rgba(0,0,0,0.1);
+}
+@mixin btn-trans ($color, $bg, $borderColor, $borderRadius, $padding, $hoverColor, $hoverBg) {
+  @extend %trans;
+  color: $color;
+  border: 1px solid $borderColor;
+  border-radius: $borderRadius;
+  background: $bg;
+  padding: $padding;
+
+  &:hover{
+    @include shadow(-1px, 1px, 5px, 5px);
+    color: $hoverColor;
+    background: $hoverBg;
+  }
+}
+%goals-tasks{
+  height: calc(100vh - 54px);;
+  background: transparentize($color: #8064FF, $amount: 0.8);
+  padding: 50px;
+  
+  h1 {
+    font-size: 2.25em;
+    font-weight: 600;
+  }
+}
+%no-outline{
+  &:focus{
+    outline: 0;
+  }
+}
+%aBlock{
+  display: block;
+  width: 100%;
+}
+%trans{
+  transition: 0.4s;
+}
+
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+p {
+  color: $almostBlack;
+}
+button {
+  outline: 0;
+  @extend %no-outline;
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.login-loader {
+  display: inline-block;
+  margin: 0 10px;
+  border: 2px solid $purple;
+  border-radius: 50%;
+  border-top: 3px solid white;
+  width: 17px;
+  height: 17px;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 0.7s linear infinite;
+}
+.content-loader {
+  display: flex;
+  min-height: 300px;
+  align-items: center;
+  justify-content: center;
+}
+.loader {
+  @extend .login-loader;
+  width: 60px;
+  height: 60px;
+  border: 5px solid white;
+  border-top: 5px solid $purple;
+}
+.wrapper {
+  max-width: 1440px;
+  margin: auto;
+}
+.error-text {
+  color: $red;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.align-center {
+  align-items: center;
+}
+.full-width {
+  width: 100%;
+}
+.logo img{
+  max-height: 35px;
+}
+.btn-clear{
+  padding: 0;
+  border: 0;
+  background: transparent;
+}
+.btn-curve-purple {
+  @include btn-trans(white, $purple, transparent, 5px, 15px 40px, white, $purple);
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 1.25em;
+  text-align: center;
+}
+.link {
+  color: $purple;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+// Margins and paddings
+.p-r-n {
+  padding-right: 0;
+}
+.p-l-n {
+  padding-left: 0;
+}
+.p-h-n {
+  padding-right: 0;
+  padding-left: 0;
+}
+.m-t-sm {
+  margin-top: 10px;
+}
+.m-t-md {
+  margin-top: 20px;
+}
+.m-t-lg {
+  margin-top: 40px;
+}
+.m-r-n {
+  margin-right: 0;
+}
+.m-r-xxs {
+  margin-right: 2.5px;
+}
+.m-r-sm {
+  margin-right: 10px;
+}
+.m-r-md {
+  margin-right: 20px;
+}
+.m-r-lg {
+  margin-right: 40px;
+}
+.m-b-md {
+  margin-bottom: 20px;
+}
+.m-l-n {
+  margin-left: 0;
+}
+.m-l-xxs {
+  margin-left: 2.5px;
+}
+.m-l-sm {
+  margin-left: 10px;
+}
+
+// Borders
+.b-l {
+  border-left: 1px solid white;
+}

@@ -1,0 +1,2641 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/components/auth/SignIn.js",
+    "content": "import React, { Component } from 'react';\nimport Link from 'next/link';\nimport { inject, observer } from 'mobx-react';\n\nimport { renderIf } from '../../utils/helpers';\n\n/**\n * Displays input fields for login and initiatates authentication.\n * @type {Component}\n */\n@inject('authStore')\n@observer\nclass SignIn extends Component {\n  render() {\n    return (\n      <section id=\"auth\" className=\"signin\">\n        <Link href=\"/\">\n          <span className=\"logo\">\n            <img src=\"/static/images/logo_white.svg\" alt=\"ReachHigh\" />\n          </span>\n        </Link>\n        <section className=\"content\">\n          <h1>Sign In</h1>\n          <p>Login To See &amp; Save Your Goals</p>\n\n          <form onSubmit={this.props.authStore.login}>\n            {renderIf(\n              this.props.authStore.loginErrors.visible,\n              <p className=\"error-text\">\n                <em>\n                  {`Error: ${this.props.authStore.loginErrors.message}`}\n                </em>\n              </p>,\n            )}\n            <div className=\"m-b-md\">\n              <label htmlFor=\"email\">Email</label>\n              <input\n                required\n                type=\"text\"\n                id=\"email\"\n                name=\"email\"\n                value={this.props.authStore.loginCredentials.email}\n                onChange={event => (\n                  this.props.authStore.setClassProps([\n                    {\n                      name: 'email',\n                      value: event.target.value,\n                    },\n                  ], this.props.authStore.loginCredentials)\n                )}\n              />\n            </div>\n            <div className=\"m-b-md\">\n              <label htmlFor=\"password\">Password</label>\n              <input\n                required\n                type=\"password\"\n                id=\"password\"\n                name=\"password\"\n                value={this.props.authStore.loginCredentials.password}\n                onChange={event => (\n                  this.props.authStore.setClassProps([\n                    {\n                      name: 'password',\n                      value: event.target.value,\n                    },\n                  ], this.props.authStore.loginCredentials)\n                )}\n              />\n            </div>\n            <div className=\"button-wrapper\">\n              <button\n                type=\"button\"\n                onClick={e => this.props.authStore.login(e)}\n                className=\"btn-curve-purple\"\n              >\n                Sign In\n                {renderIf(\n                  this.props.authStore.loginLoading,\n                  <span className=\"login-loader\" />,\n                )}\n              </button>\n            </div>\n            <p className=\"login\">\n              Don’t have an account?\n              {' '}\n              <Link href=\"/signup\">\n                <span className=\"link\">\n                  Sign Up\n                </span>\n              </Link>\n            </p>\n          </form>\n        </section>\n      </section>\n    );\n  }\n}\n\nexport default SignIn;\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/components/auth/SignIn.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "class",
+    "name": "SignIn",
+    "memberof": "src/components/auth/SignIn.js",
+    "static": true,
+    "longname": "src/components/auth/SignIn.js~SignIn",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/components/auth/SignIn.js",
+    "importStyle": "SignIn",
+    "description": "Displays input fields for login and initiatates authentication.",
+    "lineNumber": 13,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Component"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "decorators": [
+      {
+        "name": "inject",
+        "arguments": "('authStore')"
+      },
+      {
+        "name": "observer",
+        "arguments": null
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 50,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/auth/SignIn.js~SignIn",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/auth/SignIn.js~SignIn#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 51,
+    "kind": "file",
+    "name": "src/components/auth/SignUp.js",
+    "content": "import React, { Component } from 'react';\nimport Link from 'next/link';\nimport { inject, observer } from 'mobx-react';\n\nimport { renderIf } from '../../utils/helpers';\n\n/**\n * Displays input fields for signup.\n * @type {Component}\n */\n@inject('authStore')\n@observer\nclass SignUp extends Component {\n  render() {\n    return (\n      <section id=\"auth\">\n        <Link href=\"/\">\n          <span className=\"logo\">\n            <img src=\"/static/images/logo_white.svg\" alt=\"ReachHigh\" />\n          </span>\n        </Link>\n        <section className=\"content\">\n          <h1>Sign Up</h1>\n          <p>Register To See &amp; Save Your Goals</p>\n\n          <form onSubmit={this.props.authStore.signup}>\n            {renderIf(\n              this.props.authStore.signupErrors.visible,\n              <p className=\"error-text\">\n                <em>\n                  {`Error: ${this.props.authStore.signupErrors.message}`}\n                </em>\n              </p>,\n            )}\n            <div className=\"m-b-md\">\n              <label htmlFor=\"name\">Name</label>\n              <input\n                required\n                type=\"text\"\n                id=\"name\"\n                name=\"name\"\n                value={this.props.authStore.signupData.name}\n                onChange={event => (\n                  this.props.authStore.setClassProps([\n                    {\n                      name: 'name',\n                      value: event.target.value,\n                    },\n                  ], this.props.authStore.signupData)\n                )}\n              />\n              <p className=\"light\"><em>Tip: Your firstname and lastname.</em></p>\n            </div>\n            <div className=\"m-b-md\">\n              <label htmlFor=\"email\">Email</label>\n              <input\n                required\n                type=\"email\"\n                id=\"email\"\n                name=\"email\"\n                value={this.props.authStore.signupData.email}\n                onChange={event => {\n                  this.props.authStore.setClassProps([\n                    {\n                      name: 'email',\n                      value: event.target.value,\n                    },\n                  ], this.props.authStore.signupData);\n                  this.props.authStore.validateEmail();\n                }}\n              />\n              <p className=\"light\"><em>Tip: Could be your personal email address or company email address.</em></p>\n            </div>\n            <div className=\"m-b-md\">\n              <label htmlFor=\"password\">Password</label>\n              <input\n                required\n                type=\"password\"\n                id=\"password\"\n                name=\"password\"\n                value={this.props.authStore.signupData.password}\n                onChange={event => {\n                  this.props.authStore.setClassProps([\n                    {\n                      name: 'password',\n                      value: event.target.value,\n                    },\n                  ], this.props.authStore.signupData);\n                  this.props.authStore.validatePassword();\n                }}\n              />\n              <p className=\"light\"><em>Tip: Password should be equal or longer than 6 characters.</em></p>\n            </div>\n            <div className=\"m-b-md\">\n              <label htmlFor=\"confirm-password\">Re-type password</label>\n              <input\n                required\n                type=\"password\"\n                id=\"confirm-password\"\n                name=\"confirm-password\"\n                value={this.props.authStore.signupData.confirmPassword}\n                onChange={event => (\n                  this.props.authStore.setClassProps([\n                    {\n                      name: 'confirmPassword',\n                      value: event.target.value,\n                    },\n                  ], this.props.authStore.signupData)\n                )}\n              />\n              <p className=\"light\"><em>Tip: This should match with the password above.</em></p>\n            </div>\n            <div className=\"m-b-md checkbox-wrap\">\n              <input\n                type=\"checkbox\"\n                value={this.props.authStore.signupData.TOS}\n                onChange={event => (\n                  this.props.authStore.setClassProps([\n                    {\n                      name: 'TOS',\n                      value: event.target.value,\n                    },\n                  ], this.props.authStore.signupData)\n                )}\n              />\n              <span>\n                I  agree to the\n                {' '}\n                <span className=\"link\">Terms of Use </span>\n                and\n                {' '}\n                <span className=\"link\">Privacy Policy</span>\n              </span>\n            </div>\n\n            <div className=\"button-wrapper\">\n              <button\n                type=\"button\"\n                className=\"btn-curve-purple\"\n                onClick={e => this.props.authStore.signup(e)}\n              >\n                Sign Up\n                {renderIf(\n                  this.props.authStore.signupLoading,\n                  <span className=\"login-loader\" />,\n                )}\n              </button>\n              <div className=\"link-wrap\">\n                <span className=\"link\">Learn More</span>\n              </div>\n            </div>\n            <p className=\"login\">\n              Already have an account?\n              {' '}\n              <Link href=\"/signin\">\n                <span className=\"link\">\n                  Sign In\n                </span>\n              </Link>\n            </p>\n          </form>\n        </section>\n      </section>\n    );\n  }\n}\n\nexport default SignUp;\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/components/auth/SignUp.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 52,
+    "kind": "class",
+    "name": "SignUp",
+    "memberof": "src/components/auth/SignUp.js",
+    "static": true,
+    "longname": "src/components/auth/SignUp.js~SignUp",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/components/auth/SignUp.js",
+    "importStyle": "SignUp",
+    "description": "Displays input fields for signup.",
+    "lineNumber": 13,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Component"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "decorators": [
+      {
+        "name": "inject",
+        "arguments": "('authStore')"
+      },
+      {
+        "name": "observer",
+        "arguments": null
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 53,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/auth/SignUp.js~SignUp",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/auth/SignUp.js~SignUp#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/components/goals/Goals.js",
+    "content": "import React, { Component } from 'react';\nimport { inject, observer } from 'mobx-react';\n\nimport { renderIf } from '../../utils/helpers';\n\n/**\n * Displays list of available goals,\n * and ability for the user to select preferred goals\n * @type {Component}\n */\n@inject('goalsStore')\n@observer\nclass Goals extends Component {\n  constructor(props) {\n    super(props);\n    props.goalsStore.setClassProps([\n      {\n        name: 'goals',\n        value: props.goalsData.data,\n      },\n    ]);\n  }\n\n  componentDidMount() {\n    this.props.goalsStore.getUser();\n  }\n\n  content = goalsStore => (\n    <div>\n      <h1>What Are Your Main Goals?</h1>\n      <p>\n        Tell us what you would like to achieve with ReachHigh.\n        Select your preferred goals below.\n      </p>\n      <div className=\"row m-t-lg\">\n        {goalsStore.goals.map(goal => (\n          <div className=\"col-sm-4 m-t-md\" key={goal.title}>\n            <button\n              type=\"button\"\n              className={`tile ${\n                goalsStore.selectedGoals.includes(goal._id)\n                ? 'active'\n                : ''\n              }`}\n              onClick={e => goalsStore.selectGoal(e, goal._id)}\n            >\n              <img\n                src={`/static/images/icons/${goalsStore.goalIcons[goal.title]}`}\n                alt={goal.title}\n              />\n              <p>{goal.title}</p>\n            </button>\n          </div>\n          ))\n        }\n      </div>\n      <button\n        type=\"button\"\n        className=\"btn-clear m-t-lg\"\n        onClick={e => goalsStore.saveGoals(e)}\n      >\n        <span className=\"link-wrap\">\n          <span className=\"link\">\n            See My Personalized List\n          </span>\n          {renderIf(\n            goalsStore.goalsSaving,\n            <span className=\"login-loader\" />,\n          )}\n          <img src=\"/static/images/icons/right.svg\" alt=\"right\" />\n        </span>\n      </button>\n    </div>\n  )\n\n  render() {\n    return (\n      <section id=\"goals\">\n        <div className=\"wrapper\">\n          {\n            this.props.goalsStore.goals.length\n            ? this.content(this.props.goalsStore)\n            : (\n              <div className=\"content-loader\">\n                <span className=\"loader\" />\n              </div>\n            )\n          }\n        </div>\n      </section>\n    );\n  }\n}\n\nexport default Goals;\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/components/goals/Goals.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "class",
+    "name": "Goals",
+    "memberof": "src/components/goals/Goals.js",
+    "static": true,
+    "longname": "src/components/goals/Goals.js~Goals",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/components/goals/Goals.js",
+    "importStyle": "Goals",
+    "description": "Displays list of available goals,\nand ability for the user to select preferred goals",
+    "lineNumber": 13,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Component"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "decorators": [
+      {
+        "name": "inject",
+        "arguments": "('goalsStore')"
+      },
+      {
+        "name": "observer",
+        "arguments": null
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 56,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/components/goals/Goals.js~Goals",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/goals/Goals.js~Goals#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true
+  },
+  {
+    "__docId__": 57,
+    "kind": "method",
+    "name": "componentDidMount",
+    "memberof": "src/components/goals/Goals.js~Goals",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/goals/Goals.js~Goals#componentDidMount",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 58,
+    "kind": "member",
+    "name": "content",
+    "memberof": "src/components/goals/Goals.js~Goals",
+    "static": false,
+    "longname": "src/components/goals/Goals.js~Goals#content",
+    "access": "public",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/goals/Goals.js~Goals",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/goals/Goals.js~Goals#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 76,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "file",
+    "name": "src/components/home/Home.js",
+    "content": "import React from 'react';\nimport Link from 'next/link';\n\n/**\n * Displays landing page,\n * and ability to route to the signup page.\n * @type {Component}\n */\nconst Home = () => (\n  <section id=\"home\">\n    <div className=\"top-wrapper\">\n      <div className=\"intro\">\n        <div className=\"row\">\n          <div className=\"col-xl-6 m-r-n p-r-n\">\n            <nav>\n              <div className=\"row\">\n                <div className=\"col-6\">\n                  <Link href=\"/\">\n                    <span className=\"logo\">\n                      <img src=\"/static/images/logo.svg\" alt=\"ReachHigh\" />\n                    </span>\n                  </Link>\n                </div>\n                <div className=\"col-6 nav-right\">\n                  <Link href=\"/signup\">\n                    <span className=\"link\">\n                      Sign Up\n                    </span>\n                  </Link>\n                </div>\n              </div>\n            </nav>\n            <div className=\"text-content\">\n              <h1>\n                Take Control of your Career.\n              </h1>\n              <p>\n                Complete short, actionable tasks guaranteed to\n                get you further in your career, faster than ever.\n                <br />\n                Ready to get started? Take the short quiz\n                below and get your personalized path today.\n              </p>\n              <Link href=\"/signup\">\n                <span className=\"btn-curve-purple\">\n                  Get Started\n                </span>\n              </Link>\n            </div>\n            <div className=\"row bottom\">\n              <div className=\"col-sm-6\">\n                <div className=\"testimonial\">\n                  <div className=\"row\">\n                    <div className=\"col-4\">\n                      <img src=\"/static/images/avatar1.png\" alt=\"ReachHigh\" />\n                    </div>\n                    <div className=\"col-8\">\n                      <p>\n                        I love how quickly I can do the tasks, and see progress.\n                      </p>\n                      <p>\n                        — Mary Smith\n                      </p>\n                    </div>\n                  </div>\n                </div>\n              </div>\n              <div className=\"col-sm-6 b-l\">\n                <div className=\"testimonial\">\n                  <div className=\"row\">\n                    <div className=\"col-4\">\n                      <img src=\"/static/images/avatar2.png\" alt=\"ReachHigh\" />\n                    </div>\n                    <div className=\"col-8\">\n                      <p>\n                        The best investment I&rsquo;ve made in myself in ages.\n                      </p>\n                      <p>\n                        — Ben Johnson\n                      </p>\n                    </div>\n                  </div>\n                </div>\n              </div>\n            </div>\n          </div>\n          <div className=\"col-xl-6 m-l-n p-l-n d-none d-xl-block\">\n            <div className=\"top-img\" />\n          </div>\n        </div>\n      </div>\n    </div>\n  </section>\n);\n\nexport default Home;\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/components/home/Home.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 61,
+    "kind": "function",
+    "name": "Home",
+    "memberof": "src/components/home/Home.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/home/Home.js~Home",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/components/home/Home.js",
+    "importStyle": "Home",
+    "description": "Displays landing page,\nand ability to route to the signup page.",
+    "lineNumber": 9,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Component"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 62,
+    "kind": "file",
+    "name": "src/components/navigation/HorizontalNavigation.js",
+    "content": "import React from 'react';\nimport Link from 'next/link';\n\n/**\n * Top navigation,\n * @type {Component}\n */\nconst HorizontalNavigation = () => (\n  <nav id=\"horizontal-navigation\">\n    <div className=\"row\">\n      <div className=\"col-6\">\n        <Link href=\"/\">\n          <span className=\"logo\">\n            <img src=\"/static/images/logo.svg\" alt=\"ReachHigh\" />\n          </span>\n        </Link>\n      </div>\n      <div className=\"col-6\">\n        <img src=\"/static/images/icons/search.svg\" alt=\"search\" />\n      </div>\n    </div>\n  </nav>\n);\n\nexport default HorizontalNavigation;\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/components/navigation/HorizontalNavigation.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "HorizontalNavigation",
+    "memberof": "src/components/navigation/HorizontalNavigation.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/navigation/HorizontalNavigation.js~HorizontalNavigation",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/components/navigation/HorizontalNavigation.js",
+    "importStyle": "HorizontalNavigation",
+    "description": "Top navigation,",
+    "lineNumber": 8,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Component"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 64,
+    "kind": "file",
+    "name": "src/components/tasks/TaskView.js",
+    "content": "import React, { Component } from 'react';\nimport { inject, observer } from 'mobx-react';\n\n/**\n * Display a task.\n * @type {Component}\n */\n@inject('goalsStore')\n@observer\nclass TaskView extends Component {\n  componentDidMount() {\n    this.props.goalsStore.getTask(this.props.taskId);\n  }\n\n  content = goalsStore => (\n    <div>\n      <h1>{goalsStore.currentTask.title}</h1>\n      <div className=\"second-row m-t-md\">\n        <div className=\"one\">\n          <div className=\"img-wrap\">\n            <img src=\"/static/images/avatar3.png\" alt=\"avatar\" />\n          </div>\n          <div>\n            <p>\n              By Ahmed Smart\n            </p>\n            <p>\n              Senior Marketing Leader, BigCo\n            </p>\n          </div>\n        </div>\n        <div className=\"two\">\n          {\n            goalsStore.user.completedTasks.includes(\n              goalsStore.currentTask._id,\n            )\n            ? (\n              <div className=\"btn-curve-gray\">\n                Completed\n              </div>\n              )\n            : (\n              <button\n                type=\"button\"\n                className=\"btn-curve-purple\"\n                onClick={e => goalsStore.onTaskComplete(e, goalsStore.currentTask._id)}\n              >\n                Finished this task? Mark Complete\n              </button>\n            )\n          }\n        </div>\n      </div>\n      <div className=\"text-content m-t-lg\">\n        <div className=\"row\">\n          <div className=\"col-sm-7\">\n            <p className=\"text\">\n              {goalsStore.currentTask.description}\n            </p>\n          </div>\n          <div className=\"col-sm-5\">\n            <img className=\"img-fluid\" src=\"/static/images/player.png\" alt=\"player\" />\n          </div>\n        </div>\n      </div>\n    </div>\n  )\n\n  render() {\n    return (\n      <section id=\"tasks\">\n        <div className=\"wrapper\">\n          {\n            Object.keys(this.props.goalsStore.currentTask).length\n            ? this.content(this.props.goalsStore)\n            : (\n              <div className=\"content-loader\">\n                <span className=\"loader\" />\n              </div>\n            )\n          }\n        </div>\n      </section>\n    );\n  }\n}\n\nexport default TaskView;\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/components/tasks/TaskView.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 65,
+    "kind": "class",
+    "name": "TaskView",
+    "memberof": "src/components/tasks/TaskView.js",
+    "static": true,
+    "longname": "src/components/tasks/TaskView.js~TaskView",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/components/tasks/TaskView.js",
+    "importStyle": "TaskView",
+    "description": "Display a task.",
+    "lineNumber": 10,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Component"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "decorators": [
+      {
+        "name": "inject",
+        "arguments": "('goalsStore')"
+      },
+      {
+        "name": "observer",
+        "arguments": null
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 66,
+    "kind": "method",
+    "name": "componentDidMount",
+    "memberof": "src/components/tasks/TaskView.js~TaskView",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/tasks/TaskView.js~TaskView#componentDidMount",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 67,
+    "kind": "member",
+    "name": "content",
+    "memberof": "src/components/tasks/TaskView.js~TaskView",
+    "static": false,
+    "longname": "src/components/tasks/TaskView.js~TaskView#content",
+    "access": "public",
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 68,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/tasks/TaskView.js~TaskView",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/tasks/TaskView.js~TaskView#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 69,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 69,
+    "kind": "file",
+    "name": "src/components/tasks/Tasks.js",
+    "content": "import React, { Component } from 'react';\nimport { inject, observer } from 'mobx-react';\nimport Link from 'next/link';\n\n/**\n * Display the list of tasks off selected goals\n * and the ability to route to a specific task.\n * @type {Component}\n */\n@inject('goalsStore')\n@observer\nclass Tasks extends Component {\n  componentDidMount() {\n    this.props.goalsStore.getTasks();\n  }\n\n  content = goalsStore => (\n    <div className=\"wrapper\">\n      <h1>Mary, here&rsquo;s your list of suggested tasks.</h1>\n      <div className=\"row m-t-lg\">\n        {\n          goalsStore.tasks.map(task => (\n            <div className=\"col-xl-4 m-t-lg\" key={task.title}>\n              <div className=\"tile\">\n                <div className=\"heading\">\n                  <img src={`/static/images/icons/${goalsStore.goalIcons[task.goalTitle]}`} alt={task.goalTitle} />\n                  <p>{task.goalTitle}</p>\n                </div>\n                <div className=\"body\">\n                  <p>{task.title}</p>\n                </div>\n                <div className=\"footer\">\n                  <Link\n                    href={{\n                      pathname: `tasks/${task._id}`,\n                      query: task,\n                    }}\n                    as={`tasks/${task._id}`}\n                  >\n                    {\n                      goalsStore.user.completedTasks.includes(task.title)\n                      ? (\n                        <div className=\"btn-curve-gray\">\n                          Completed\n                        </div>\n                        )\n                      : (\n                        <div className=\"btn-curve-purple\">\n                          Start task\n                        </div>\n                      )\n                    }\n                  </Link>\n                </div>\n              </div>\n            </div>\n          ))\n        }\n      </div>\n    </div>\n  )\n\n  render() {\n    return (\n      <section\n        id=\"tasks\"\n        style={\n          this.props.goalsStore.tasks.length > 8\n          ? { height: 'inherit' }\n          : { height: '100vh' }\n        }\n      >\n        <div className=\"wrapper\">\n          {\n            this.props.goalsStore.tasks.length\n            ? this.content(this.props.goalsStore)\n            : (\n              <div className=\"content-loader\">\n                <span className=\"loader\" />\n              </div>\n            )\n          }\n        </div>\n      </section>\n    );\n  }\n}\n\nexport default Tasks;\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/components/tasks/Tasks.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 70,
+    "kind": "class",
+    "name": "Tasks",
+    "memberof": "src/components/tasks/Tasks.js",
+    "static": true,
+    "longname": "src/components/tasks/Tasks.js~Tasks",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/components/tasks/Tasks.js",
+    "importStyle": "Tasks",
+    "description": "Display the list of tasks off selected goals\nand the ability to route to a specific task.",
+    "lineNumber": 12,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Component"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "decorators": [
+      {
+        "name": "inject",
+        "arguments": "('goalsStore')"
+      },
+      {
+        "name": "observer",
+        "arguments": null
+      }
+    ],
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 71,
+    "kind": "method",
+    "name": "componentDidMount",
+    "memberof": "src/components/tasks/Tasks.js~Tasks",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/tasks/Tasks.js~Tasks#componentDidMount",
+    "access": "public",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 72,
+    "kind": "member",
+    "name": "content",
+    "memberof": "src/components/tasks/Tasks.js~Tasks",
+    "static": false,
+    "longname": "src/components/tasks/Tasks.js~Tasks#content",
+    "access": "public",
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 73,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/tasks/Tasks.js~Tasks",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/tasks/Tasks.js~Tasks#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 63,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "file",
+    "name": "src/stores/AuthStore.js",
+    "content": "/* eslint-disable arrow-body-style */\nimport {\n  observable,\n  action,\n  runInAction,\n  toJS,\n} from 'mobx';\nimport cookie from 'js-cookie';\n\nimport { setClassProps, postData } from '../utils/helpers';\nimport { signin } from '../utils/auth';\n\n/**\n * MobX store class.\n * For app wide authentication/authorization.\n * @class\n */\nexport default class AuthStore {\n\tconstructor(uiStore) {\n\t\tthis.uiStore = uiStore;\n\t}\n\n\t@observable\n  loginLoading = false;\n\n\t@observable\n\tsignupLoading = false;\n\n\t@observable\n\tloginCredentials = {\n    email: '',\n    password: '',\n    strategy: 'local',\n\t};\n\n\t@observable\n\tloginErrors = {\n    visible: false,\n    message: '',\n  };\n\n\t@observable\n\tsignupData = {\n    name: '',\n    email: '',\n    password: '',\n    confirmPassword: '',\n    TOS: false,\n\t};\n\n\t@observable\n\tsignupErrors = {\n    visible: false,\n    type: '',\n    message: '',\n  };\n\n\t/**\n   * Function used to validate that all fields are filled\n\t */\n  validatefields = () => {\n    return !!this.signupData.name\n      && !!this.signupData.email\n      && !!this.signupData.password\n      && !!this.signupData.confirmPassword\n      && !!this.signupData.TOS;\n  }\n\n\t/**\n   * Function used to validate that the password\n   * and re-type password fields match\n\t */\n  validatePasswordMatch = () => {\n    return !!this.signupData.password\n    && !!this.signupData.confirmPassword\n    && this.signupData.password === this.signupData.confirmPassword;\n  }\n\n\t/**\n   * Function used to validate an email address\n\t */\n\t@action\n  validateEmail = () => {\n    if (this.signupData.email.match(/^([\\w.%+-]+)@([\\w-]+\\.)+([\\w]{2,})$/i)) {\n      this.signupErrors = {\n        visible: false,\n        type: '',\n        message: '',\n      };\n    }\n    else {\n      this.signupErrors = {\n        visible: true,\n        type: 'email',\n        message: 'Invalid email address.',\n      };\n    }\n  }\n\n\t/**\n   * Function used to validate the password entered\n   * is equal or more than 6 characters\n\t */\n\t@action\n  validatePassword = () => {\n    if (this.signupData.password.length >= 6) {\n      this.signupErrors = {\n        visible: false,\n        type: '',\n        message: '',\n      };\n    }\n    else {\n      this.signupErrors = {\n        visible: true,\n        type: 'password',\n        message: 'Password should be equal or longer than 6 characters.',\n      };\n    }\n  }\n\n\t/**\n   * Login Function,\n   * It take's the input credentials\n   * and makes and authentication request.\n   * Saves the token and user id, then navigates to the goals page.\n   * Also, handles the display of login input errors.\n\t * @param {object} e - DOM event.\n\t */\n\t@action\n\tlogin = async (e = null) => {\n    if (e) e.preventDefault();\n    this.loginLoading = true;\n    if (this.loginCredentials.email && this.loginCredentials.password) {\n      await postData('authentication', this.loginCredentials)\n      .then(async response => {\n        runInAction(() => {\n          this.loginCredentials.email = '';\n          this.loginCredentials.password = '';\n          this.loginErrors.visible = false;\n          this.loginErrors.message = '';\n          this.loginLoading = false;\n        });\n\n        const { accessToken, user: { _id } } = response.data;\n        cookie.set('u_id', _id, { expires: 1 });\n        await signin({ token: accessToken });\n      })\n      .catch(error => {\n        if (error.response.status === 401) {\n          runInAction(() => {\n            this.loginErrors.visible = true;\n            this.loginErrors.message = 'Invalid credentials, email or password incorrect.';\n            this.loginLoading = false;\n          });\n        }\n        else {\n          this.uiStore.setClassProps([\n            {\n              name: 'open',\n              value: true,\n            },\n            {\n              name: 'type',\n              value: 'error',\n            },\n          ], this.uiStore.modal);\n        }\n      });\n    }\n    else {\n      this.loginErrors.visible = true;\n      this.loginErrors.message = 'Email and Password fields needed';\n    }\n\t}\n\n\t/**\n   * Signup Function,\n   * It take's the input credentials\n   * and request to create a new user.\n   * On creation of user, it makes a authentication request\n   * and follows the login flow\n   * Also, handles the display of signup input errors.\n\t * @param {object} e - DOM event.\n\t */\n\t@action\n\tsignup = async (e = null) => {\n    if (e) e.preventDefault();\n    this.signupLoading = true;\n    if (this.validatefields() && this.validatePasswordMatch()) {\n      const signupData = Object.assign({}, toJS(this.signupData));\n      delete signupData.confirmPassword;\n      delete signupData.TOS;\n\n      await postData('users', this.signupData)\n      .then(async response => {\n        runInAction(() => {\n          this.signupErrors = {\n            visible: false,\n            type: '',\n            message: '',\n          };\n        });\n\n        return postData('authentication', {\n          email: response.data.email,\n          password: this.signupData.password,\n          strategy: 'local',\n        });\n      })\n      .then(async response => {\n        runInAction(() => {\n          this.signupData = {\n            name: '',\n            email: '',\n            password: '',\n            confirmPassword: '',\n            TOS: false,\n          };\n          this.signupLoading = false;\n        });\n        const { accessToken, user: { _id } } = response.data;\n        cookie.set('u_id', _id, { expires: 1 });\n        await signin({ token: accessToken });\n      })\n      .catch(error => {\n        if (error.response.status === 409) {\n          runInAction(() => {\n            this.signupErrors = {\n              visible: true,\n              type: 'conflict',\n              message: 'Email has already been used',\n            };\n            this.signupLoading = false;\n          });\n        }\n        else {\n          this.uiStore.setClassProps([\n            {\n              name: 'open',\n              value: true,\n            },\n            {\n              name: 'type',\n              value: 'error',\n            },\n          ], this.uiStore.modal);\n        }\n      });\n    }\n    else {\n      this.signupErrors = {\n        visible: true,\n        type: 'form',\n        message: 'All fields below should be filled out, and passwords must match.',\n      };\n    }\n\t}\n\n\t/**\n\t * Function used to assign values to the members of\n\t *  this class from an external function or a react component.\n\t * @param {Array} arr - An array key:value pairs of class members and their values\n\t * @param {Object} self - Refers to the class itself or a member.\n\t */\n\t@action\n\tsetClassProps = (arr, self = this) => setClassProps(arr, self);\n}\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/stores/AuthStore.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 75,
+    "kind": "class",
+    "name": "AuthStore",
+    "memberof": "src/stores/AuthStore.js",
+    "static": true,
+    "longname": "src/stores/AuthStore.js~AuthStore",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/stores/AuthStore.js",
+    "importStyle": "AuthStore",
+    "description": "MobX store class.\nFor app wide authentication/authorization.",
+    "lineNumber": 18,
+    "unknown": [
+      {
+        "tagName": "@class",
+        "tagValue": ""
+      }
+    ],
+    "interface": false
+  },
+  {
+    "__docId__": 76,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true
+  },
+  {
+    "__docId__": 77,
+    "kind": "member",
+    "name": "uiStore",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#uiStore",
+    "access": "public",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 78,
+    "kind": "member",
+    "name": "loginLoading",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#loginLoading",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 79,
+    "kind": "member",
+    "name": "signupLoading",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#signupLoading",
+    "access": "public",
+    "description": null,
+    "lineNumber": 27,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 80,
+    "kind": "member",
+    "name": "loginCredentials",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#loginCredentials",
+    "access": "public",
+    "description": null,
+    "lineNumber": 30,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 81,
+    "kind": "member",
+    "name": "loginErrors",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#loginErrors",
+    "access": "public",
+    "description": null,
+    "lineNumber": 37,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 82,
+    "kind": "member",
+    "name": "signupData",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#signupData",
+    "access": "public",
+    "description": null,
+    "lineNumber": 43,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 83,
+    "kind": "member",
+    "name": "signupErrors",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#signupErrors",
+    "access": "public",
+    "description": null,
+    "lineNumber": 52,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 84,
+    "kind": "member",
+    "name": "validatefields",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#validatefields",
+    "access": "public",
+    "description": "Function used to validate that all fields are filled",
+    "lineNumber": 61,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 85,
+    "kind": "member",
+    "name": "validatePasswordMatch",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#validatePasswordMatch",
+    "access": "public",
+    "description": "Function used to validate that the password\nand re-type password fields match",
+    "lineNumber": 73,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 86,
+    "kind": "member",
+    "name": "validateEmail",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#validateEmail",
+    "access": "public",
+    "description": "Function used to validate an email address",
+    "lineNumber": 83,
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 89,
+    "kind": "member",
+    "name": "validatePassword",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#validatePassword",
+    "access": "public",
+    "description": "Function used to validate the password entered\nis equal or more than 6 characters",
+    "lineNumber": 105,
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 92,
+    "kind": "member",
+    "name": "login",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#login",
+    "access": "public",
+    "description": "Login Function,\nIt take's the input credentials\nand makes and authentication request.\nSaves the token and user id, then navigates to the goals page.\nAlso, handles the display of login input errors.",
+    "lineNumber": 131,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "e",
+        "description": "DOM event."
+      }
+    ],
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 96,
+    "kind": "member",
+    "name": "signup",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#signup",
+    "access": "public",
+    "description": "Signup Function,\nIt take's the input credentials\nand request to create a new user.\nOn creation of user, it makes a authentication request\nand follows the login flow\nAlso, handles the display of signup input errors.",
+    "lineNumber": 187,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "e",
+        "description": "DOM event."
+      }
+    ],
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 104,
+    "kind": "member",
+    "name": "setClassProps",
+    "memberof": "src/stores/AuthStore.js~AuthStore",
+    "static": false,
+    "longname": "src/stores/AuthStore.js~AuthStore#setClassProps",
+    "access": "public",
+    "description": "Function used to assign values to the members of\n this class from an external function or a react component.",
+    "lineNumber": 267,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "arr",
+        "description": "An array key:value pairs of class members and their values"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "self",
+        "description": "Refers to the class itself or a member."
+      }
+    ],
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 105,
+    "kind": "file",
+    "name": "src/stores/GoalsStore.js",
+    "content": "/* eslint-disable camelcase */\nimport {\n\tobservable,\n\taction,\n\trunInAction,\n\ttoJS,\n} from 'mobx';\nimport Router from 'next/router';\nimport cookie from 'js-cookie';\n\nimport {\n\tsetClassProps,\n\tgetData,\n\trunInActionUtil,\n\tpatchData,\n} from '../utils/helpers';\n\n/**\n * MobX store class.\n * For goals and tasks component and related actions.\n * @class\n */\nexport default class GoalsStore {\n\tconstructor(uiStore) {\n\t\tthis.uiStore = uiStore;\n\t}\n\n\t/**\n\t * Contains goal icons based on the goal title.\n\t * @type {Object}\n\t */\n\tgoalIcons = {\n\t\t'Build my network': 'network.svg',\n\t\t'Personal Growth': 'growth.svg',\n\t\t'Get a promotion': 'promotion.svg',\n\t\t'Be a better leader': 'leader.svg',\n\t}\n\n\t/**\n\t * User object, contains user data\n\t * @type {Object}\n\t */\n\t@observable\n\tuser = {\n    completedTasks: [],\n    name: '',\n    email: '',\n    createdAt: '',\n    selectedGoals: [],\n\t};\n\n\t@observable\n  currentTask = {};\n\n\t@observable\n  goalsSaving = false;\n\n\t@observable\n\tselectedGoals = []\n\n\t@observable\n\tcompletedTasks = []\n\n\t@observable\n\tgoals = []\n\n\t@observable\n\ttasks = []\n\n\t/**\n   * selectGoal function,\n\t * Add a goal to the array of selected goals.\n\t * @param {object} e - DOM event.\n\t * @param {string} id - goal id.\n\t */\n\t@action\n\tselectGoal = (e, id) => {\n\t\te.preventDefault();\n\t\tif (this.selectedGoals.includes(id)) {\n\t\t\tthis.selectedGoals.splice(this.selectedGoals.indexOf(id), 1);\n\t\t}\n\t\telse {\n\t\t\tthis.selectedGoals.push(id);\n\t\t}\n\t};\n\n\t/**\n   * getUser function,\n\t * Gets the user object in the event of a browser refresh.\n\t */\n\t@action\n\tgetUser = async () => {\n\t\tconst u_id = cookie.get('u_id');\n\n    await getData(`users/${u_id}`)\n\t\t.then(res => {\n\t\t\trunInAction(() => {\n\t\t\t\tthis.user = res.data;\n\t\t\t\tthis.selectedGoals = res.data.selectedGoals;\n\t\t\t});\n\t\t})\n\t\t.catch(() => {\n\t\t\tthis.uiStore.setClassProps([\n\t\t\t\t{\n\t\t\t\t\tname: 'open',\n\t\t\t\t\tvalue: true,\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\tname: 'type',\n\t\t\t\t\tvalue: 'error',\n\t\t\t\t},\n\t\t\t], this.uiStore.modal);\n\t\t});\n\t};\n\n\t/**\n   * saveGoals function,\n\t * Saves selected goals in the user object\n\t * @param {object} e - DOM event.\n\t */\n\t@action\n\tsaveGoals = async e => {\n\t\te.preventDefault();\n\t\tthis.goalsSaving = true;\n    await patchData(`users/${this.user._id}`, {\n\t\t\tselectedGoals: toJS(this.selectedGoals),\n\t\t})\n\t\t.then(() => {\n\t\t\trunInActionUtil(this, 'goalsSaving', false);\n\t\t\tRouter.push('/tasks');\n\t\t})\n\t\t.catch(() => {\n\t\t\trunInActionUtil(this, 'goalsSaving', false);\n\t\t\tthis.uiStore.setClassProps([\n\t\t\t\t{\n\t\t\t\t\tname: 'open',\n\t\t\t\t\tvalue: true,\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\tname: 'type',\n\t\t\t\t\tvalue: 'error',\n\t\t\t\t},\n\t\t\t], this.uiStore.modal);\n\t\t});\n\t};\n\n\t/**\n   * calcTasks function,\n\t * Generated tasks off the user selected goals.\n\t */\n\t@action\n\tcalcTasks = async () => {\n\t\tawait Promise.all(this.user.selectedGoals.map(goal_id => getData(`goals/${goal_id}`)))\n\t\t.then(goalsData => {\n\t\t\t// eslint-disable-next-line no-plusplus\n\t\t\tfor (let i = 0; i < goalsData.length; i++) {\n\t\t\t\t// eslint-disable-next-line no-plusplus\n\t\t\t\tfor (let j = 0; j < goalsData[i].data.tasks.length; j++) {\n\t\t\t\t\tconst task = Object.assign(\n\t\t\t\t\t\t{},\n\t\t\t\t\t\t{\n\t\t\t\t\t\t\tgoalId: goalsData[i].data._id,\n\t\t\t\t\t\t\tgoalTitle: goalsData[i].data.title,\n\t\t\t\t\t\t},\n\t\t\t\t\t\tgoalsData[i].data.tasks[j],\n\t\t\t\t\t);\n\t\t\t\t\trunInAction(() => {\n\t\t\t\t\t\tthis.tasks.push(task);\n\t\t\t\t\t});\n\t\t\t\t}\n\t\t\t}\n\t\t})\n\t\t.catch(() => {\n\t\t\tthis.uiStore.setClassProps([\n\t\t\t\t{\n\t\t\t\t\tname: 'open',\n\t\t\t\t\tvalue: true,\n\t\t\t\t},\n\t\t\t\t{\n\t\t\t\t\tname: 'type',\n\t\t\t\t\tvalue: 'error',\n\t\t\t\t},\n\t\t\t], this.uiStore.modal);\n\t\t});\n\t}\n\n\t/**\n   * getTasks function,\n\t * Gets the list og tasks afer getting the user object\n\t * and generating tasks.\n\t */\n\t@action\n\tgetTasks = () => {\n\t\tif (!this.tasks.length) {\n\t\t\tthis.getUser()\n\t\t\t.then(() => this.calcTasks());\n\t\t}\n\t};\n\n\t/**\n   * getTask function,\n\t * Gets the currently clicked task.\n\t * @param {string} taskId - task id of current task being viewed.\n\t */\n\t@action\n\tgetTask = taskId => {\n\t\tif (this.tasks.length) {\n\t\t\tthis.currentTask = this.tasks.find(task => task._id === taskId);\n\t\t}\n\t\telse {\n\t\t\tthis.getUser()\n\t\t\t.then(async () => this.calcTasks())\n\t\t\t.then(() => {\n\t\t\t\tconst taskData = this.tasks.find(task => task._id === taskId);\n\t\t\t\trunInActionUtil(this, 'currentTask', taskData);\n\t\t\t});\n\t\t}\n\t};\n\n\t/**\n   * onTaskComplete function,\n\t * Saved completed task into user object.\n\t * @param {string} taskId - task id of task to be marked as completed.\n\t */\n\t@action\n\tonTaskComplete = async (e, taskId) => {\n\t\te.preventDefault();\n\t\tconst u_id = cookie.get('u_id');\n\n\t\tif (!this.user.completedTasks.includes(taskId)) {\n\t\t\tthis.user.completedTasks.push(taskId);\n\t\t\tawait patchData(`users/${u_id}`, {\n\t\t\t\tcompletedTasks: toJS(this.user.completedTasks),\n\t\t\t})\n\t\t\t.catch(() => {\n\t\t\t\tthis.uiStore.setClassProps([\n\t\t\t\t\t{\n\t\t\t\t\t\tname: 'open',\n\t\t\t\t\t\tvalue: true,\n\t\t\t\t\t},\n\t\t\t\t\t{\n\t\t\t\t\t\tname: 'type',\n\t\t\t\t\t\tvalue: 'error',\n\t\t\t\t\t},\n\t\t\t\t], this.uiStore.modal);\n\t\t\t});\n\t\t}\n\t};\n\n\t@action\n\tsetClassProps = (arr, self = this) => setClassProps(arr, self);\n}\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/stores/GoalsStore.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 106,
+    "kind": "class",
+    "name": "GoalsStore",
+    "memberof": "src/stores/GoalsStore.js",
+    "static": true,
+    "longname": "src/stores/GoalsStore.js~GoalsStore",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/stores/GoalsStore.js",
+    "importStyle": "GoalsStore",
+    "description": "MobX store class.\nFor goals and tasks component and related actions.",
+    "lineNumber": 23,
+    "unknown": [
+      {
+        "tagName": "@class",
+        "tagValue": ""
+      }
+    ],
+    "interface": false
+  },
+  {
+    "__docId__": 107,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true
+  },
+  {
+    "__docId__": 108,
+    "kind": "member",
+    "name": "uiStore",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#uiStore",
+    "access": "public",
+    "description": null,
+    "lineNumber": 25,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 109,
+    "kind": "member",
+    "name": "goalIcons",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#goalIcons",
+    "access": "public",
+    "description": "Contains goal icons based on the goal title.",
+    "lineNumber": 32,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Object"
+      ],
+      "spread": false,
+      "description": null
+    }
+  },
+  {
+    "__docId__": 110,
+    "kind": "member",
+    "name": "user",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#user",
+    "access": "public",
+    "description": null,
+    "lineNumber": 44,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 111,
+    "kind": "member",
+    "name": "currentTask",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#currentTask",
+    "access": "public",
+    "description": null,
+    "lineNumber": 53,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 112,
+    "kind": "member",
+    "name": "goalsSaving",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#goalsSaving",
+    "access": "public",
+    "description": null,
+    "lineNumber": 56,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 113,
+    "kind": "member",
+    "name": "selectedGoals",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#selectedGoals",
+    "access": "public",
+    "description": null,
+    "lineNumber": 59,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 114,
+    "kind": "member",
+    "name": "completedTasks",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#completedTasks",
+    "access": "public",
+    "description": null,
+    "lineNumber": 62,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 115,
+    "kind": "member",
+    "name": "goals",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#goals",
+    "access": "public",
+    "description": null,
+    "lineNumber": 65,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 116,
+    "kind": "member",
+    "name": "tasks",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#tasks",
+    "access": "public",
+    "description": null,
+    "lineNumber": 68,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 117,
+    "kind": "member",
+    "name": "selectGoal",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#selectGoal",
+    "access": "public",
+    "description": "selectGoal function,\nAdd a goal to the array of selected goals.",
+    "lineNumber": 77,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "e",
+        "description": "DOM event."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "id",
+        "description": "goal id."
+      }
+    ],
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 118,
+    "kind": "member",
+    "name": "getUser",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#getUser",
+    "access": "public",
+    "description": "getUser function,\nGets the user object in the event of a browser refresh.",
+    "lineNumber": 92,
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 121,
+    "kind": "member",
+    "name": "saveGoals",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#saveGoals",
+    "access": "public",
+    "description": "saveGoals function,\nSaves selected goals in the user object",
+    "lineNumber": 122,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "e",
+        "description": "DOM event."
+      }
+    ],
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 123,
+    "kind": "member",
+    "name": "calcTasks",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#calcTasks",
+    "access": "public",
+    "description": "calcTasks function,\nGenerated tasks off the user selected goals.",
+    "lineNumber": 152,
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 124,
+    "kind": "member",
+    "name": "getTasks",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#getTasks",
+    "access": "public",
+    "description": "getTasks function,\nGets the list og tasks afer getting the user object\nand generating tasks.",
+    "lineNumber": 193,
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 125,
+    "kind": "member",
+    "name": "getTask",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#getTask",
+    "access": "public",
+    "description": "getTask function,\nGets the currently clicked task.",
+    "lineNumber": 206,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "taskId",
+        "description": "task id of current task being viewed."
+      }
+    ],
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 127,
+    "kind": "member",
+    "name": "onTaskComplete",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#onTaskComplete",
+    "access": "public",
+    "description": "onTaskComplete function,\nSaved completed task into user object.",
+    "lineNumber": 226,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "string"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "taskId",
+        "description": "task id of task to be marked as completed."
+      }
+    ],
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 128,
+    "kind": "member",
+    "name": "setClassProps",
+    "memberof": "src/stores/GoalsStore.js~GoalsStore",
+    "static": false,
+    "longname": "src/stores/GoalsStore.js~GoalsStore#setClassProps",
+    "access": "public",
+    "description": null,
+    "lineNumber": 251,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 129,
+    "kind": "file",
+    "name": "src/stores/UIStore.js",
+    "content": "import { observable, action } from 'mobx';\nimport { setClassProps } from '../utils/helpers';\n\n/**\n * MobX store class.\n * For app wide UI configurations (e.g modals and tabs)\n * @class\n */\nexport default class UIStore {\n\t@observable\n\tmodal = {\n\t\topen: false,\n\t\ttype: '',\n\t};\n\n\t/**\n\t * Function used to assign values to the members of\n\t *  this class from an external function or a react component.\n\t * @param {Array} arr - An array key:value pairs of class members and their values\n\t * @param {Object} self - Refers to the class itself or a member.\n\t */\n\t@action\n\tsetClassProps = (arr, self = this) => setClassProps(arr, self);\n}\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/stores/UIStore.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 130,
+    "kind": "class",
+    "name": "UIStore",
+    "memberof": "src/stores/UIStore.js",
+    "static": true,
+    "longname": "src/stores/UIStore.js~UIStore",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/stores/UIStore.js",
+    "importStyle": "UIStore",
+    "description": "MobX store class.\nFor app wide UI configurations (e.g modals and tabs)",
+    "lineNumber": 9,
+    "unknown": [
+      {
+        "tagName": "@class",
+        "tagValue": ""
+      }
+    ],
+    "interface": false
+  },
+  {
+    "__docId__": 131,
+    "kind": "member",
+    "name": "modal",
+    "memberof": "src/stores/UIStore.js~UIStore",
+    "static": false,
+    "longname": "src/stores/UIStore.js~UIStore#modal",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "decorators": [
+      {
+        "name": "observable",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 132,
+    "kind": "member",
+    "name": "setClassProps",
+    "memberof": "src/stores/UIStore.js~UIStore",
+    "static": false,
+    "longname": "src/stores/UIStore.js~UIStore#setClassProps",
+    "access": "public",
+    "description": "Function used to assign values to the members of\n this class from an external function or a react component.",
+    "lineNumber": 23,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "Array"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "arr",
+        "description": "An array key:value pairs of class members and their values"
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "self",
+        "description": "Refers to the class itself or a member."
+      }
+    ],
+    "decorators": [
+      {
+        "name": "action",
+        "arguments": null
+      }
+    ],
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 133,
+    "kind": "file",
+    "name": "src/stores/index.js",
+    "content": "/**\n * MobX store classes instantiation.\n * This is where all MobX stores are instantiated\n * and exported for use within the Provider.\n */\n\nimport { configure } from 'mobx';\nimport UIStore from './UIStore';\nimport AuthStore from './AuthStore';\nimport GoalsStore from './GoalsStore';\n\n /**\n * Configuration to ensure all state changes occur via MobX actions\n */\nconfigure({ enforceActions: 'observed' });\n\n /**\n * UIStore - For app wide UI configurations (e.g modals and tabs).\n * @class\n */\nconst uiStore = new UIStore();\n\n /**\n * AuthStore - For app wide authentication/authorization.\n * @class\n */\nconst authStore = new AuthStore(uiStore);\n\n /**\n * GoalsStore - For goals and tasks component and related actions.\n * @class\n */\nconst goalsStore = new GoalsStore(uiStore);\n\n\nexport default {\n  uiStore,\n  authStore,\n  goalsStore,\n};\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/stores/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 134,
+    "kind": "variable",
+    "name": "uiStore",
+    "memberof": "src/stores/index.js",
+    "static": true,
+    "longname": "src/stores/index.js~uiStore",
+    "access": "public",
+    "export": false,
+    "importPath": "reachhigh/src/stores/index.js",
+    "importStyle": null,
+    "description": "UIStore - For app wide UI configurations (e.g modals and tabs).",
+    "lineNumber": 21,
+    "unknown": [
+      {
+        "tagName": "@class",
+        "tagValue": ""
+      }
+    ],
+    "type": {
+      "types": [
+        "src/stores/UIStore.js~UIStore"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 135,
+    "kind": "variable",
+    "name": "authStore",
+    "memberof": "src/stores/index.js",
+    "static": true,
+    "longname": "src/stores/index.js~authStore",
+    "access": "public",
+    "export": false,
+    "importPath": "reachhigh/src/stores/index.js",
+    "importStyle": null,
+    "description": "AuthStore - For app wide authentication/authorization.",
+    "lineNumber": 27,
+    "unknown": [
+      {
+        "tagName": "@class",
+        "tagValue": ""
+      }
+    ],
+    "type": {
+      "types": [
+        "src/stores/AuthStore.js~AuthStore"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 136,
+    "kind": "variable",
+    "name": "goalsStore",
+    "memberof": "src/stores/index.js",
+    "static": true,
+    "longname": "src/stores/index.js~goalsStore",
+    "access": "public",
+    "export": false,
+    "importPath": "reachhigh/src/stores/index.js",
+    "importStyle": null,
+    "description": "GoalsStore - For goals and tasks component and related actions.",
+    "lineNumber": 33,
+    "unknown": [
+      {
+        "tagName": "@class",
+        "tagValue": ""
+      }
+    ],
+    "type": {
+      "types": [
+        "src/stores/GoalsStore.js~GoalsStore"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 137,
+    "kind": "file",
+    "name": "src/utils/auth.js",
+    "content": "import React, { useEffect } from 'react';\nimport Router from 'next/router';\nimport nextCookie from 'next-cookies';\nimport cookie from 'js-cookie';\n\nconst signin = ({ token }) => {\n  cookie.set('token', token, { expires: 1 });\n  Router.push('/goals');\n};\n\nconst auth = ctx => {\n  const { token } = nextCookie(ctx);\n\n  /*\n   * If `ctx.req` is available it means we are on the server.\n   * Additionally if there's no token it means the user is not logged in.\n   */\n  if (ctx.req && !token) {\n    ctx.res.writeHead(302, { Location: '/signin' });\n    ctx.res.end();\n  }\n\n  // We already checked for server. This should only happen on client.\n  if (!token) {\n    Router.push('/signin');\n  }\n\n  return token;\n};\n\nconst logout = () => {\n  cookie.remove('token');\n  // to support logging out from all windows\n  window.localStorage.setItem('logout', Date.now());\n  Router.push('/signin');\n};\n\nconst withAuthSync = WrappedComponent => {\n  const Wrapper = props => {\n    const syncLogout = event => {\n      if (event.key === 'logout') {\n        Router.push('/signin');\n      }\n    };\n\n    useEffect(() => {\n      window.addEventListener('storage', syncLogout);\n\n      return () => {\n        window.removeEventListener('storage', syncLogout);\n        window.localStorage.removeItem('logout');\n      };\n    }, [null]);\n\n    return <WrappedComponent {...props} />;\n  };\n\n  Wrapper.getInitialProps = async ctx => {\n    const token = auth(ctx);\n\n    // eslint-disable-next-line max-len\n    const componentProps = WrappedComponent.getInitialProps && (await WrappedComponent.getInitialProps(ctx));\n    return { ...componentProps, token };\n  };\n  return Wrapper;\n};\n\nexport {\n  signin,\n  auth,\n  logout,\n  withAuthSync,\n};\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/utils/auth.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 138,
+    "kind": "function",
+    "name": "signin",
+    "memberof": "src/utils/auth.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/auth.js~signin",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/utils/auth.js",
+    "importStyle": "{signin}",
+    "description": null,
+    "lineNumber": 6,
+    "undocument": true,
+    "params": [
+      {
+        "name": "objectPattern",
+        "types": [
+          "{\"token\": *}"
+        ],
+        "defaultRaw": {
+          "token": null
+        },
+        "defaultValue": "{\"token\":null}"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 139,
+    "kind": "function",
+    "name": "auth",
+    "memberof": "src/utils/auth.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/auth.js~auth",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/utils/auth.js",
+    "importStyle": "{auth}",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "params": [
+      {
+        "name": "ctx",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 140,
+    "kind": "function",
+    "name": "logout",
+    "memberof": "src/utils/auth.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/auth.js~logout",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/utils/auth.js",
+    "importStyle": "{logout}",
+    "description": null,
+    "lineNumber": 31,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 141,
+    "kind": "function",
+    "name": "withAuthSync",
+    "memberof": "src/utils/auth.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/auth.js~withAuthSync",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/utils/auth.js",
+    "importStyle": "{withAuthSync}",
+    "description": null,
+    "lineNumber": 38,
+    "undocument": true,
+    "params": [
+      {
+        "name": "WrappedComponent",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 142,
+    "kind": "file",
+    "name": "src/utils/helpers.js",
+    "content": "import { runInAction } from 'mobx';\nimport Router from 'next/router';\nimport nextCookie from 'next-cookies';\nimport cookie from 'js-cookie';\n\nimport config from '../../config';\n\nconst axios = require('axios');\n\nconst setClassProps = (arr, self) => {\n\tarr.forEach(elem => {\n\t\tself[elem.name] = elem.value;\n\t});\n};\n\nconst renderIf = (condition, content) => {\n  if (condition) {\n    return content;\n  }\n  return null;\n};\n\nconst axiosCore = (verb, urlPart, data = null, serverToken = null) => {\n\tconst token = serverToken || cookie.get('token');\n\tif (!token) Router.push('/signin');\n\n\tif (verb === 'get') {\n\t\treturn axios[verb](\n\t\t\t`${config.API_URL}/${urlPart}`,\n\t\t\ttoken\n\t\t\t? {\n\t\t\t\theaders: {\n\t\t\t\t\tAuthorization: `Bearer ${token}`,\n\t\t\t\t},\n\t\t\t}\n\t\t\t: {},\n\t\t);\n\t}\n\treturn axios[verb](\n\t\t`${config.API_URL}/${urlPart}`,\n\t\tdata,\n\t\ttoken\n\t\t? {\n\t\t\theaders: {\n\t\t\t\tAuthorization: `Bearer ${token}`,\n\t\t\t},\n\t\t}\n\t\t: {},\n\t);\n};\n\nconst getData = (urlPart, token = null) => axiosCore('get', urlPart, null, token);\n\nconst postData = (urlPart, data) => axiosCore('post', urlPart, data);\n\nconst patchData = (urlPart, data) => axiosCore('patch', urlPart, data);\n\nconst runInActionUtil = (self, prop, data) => {\n\trunInAction(() => {\n\t\tself[prop] = data;\n\t});\n};\n\n// eslint-disable-next-line consistent-return\nconst getInitialProps = async (ctx, urlPart) => {\n\tconst { token } = nextCookie(ctx);\n  const redirectOnError = () => {\n\t\tif (window !== 'undefined') {\n\t\t\tRouter.push('/signin');\n\t\t}\n\t\telse {\n\t\t\tctx.res.writeHead(302, {\n\t\t\t\tLocation: '/signin',\n\t\t\t});\n\t\t\tctx.res.end();\n\t\t}\n\t};\n\n  try {\n\t\tconst data = await getData(urlPart, token).then(res => res.data);\n    if (data) {\n      return data;\n\t\t}\n\t\treturn await redirectOnError();\n\t}\n\tcatch (error) {\n    redirectOnError();\n  }\n};\n\nexport {\n\tsetClassProps,\n\trenderIf,\n\tgetData,\n\tpostData,\n\tpatchData,\n\trunInActionUtil,\n\tgetInitialProps,\n};\n",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/src/utils/helpers.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 143,
+    "kind": "variable",
+    "name": "axios",
+    "memberof": "src/utils/helpers.js",
+    "static": true,
+    "longname": "src/utils/helpers.js~axios",
+    "access": "public",
+    "export": false,
+    "importPath": "reachhigh/src/utils/helpers.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 144,
+    "kind": "function",
+    "name": "axiosCore",
+    "memberof": "src/utils/helpers.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/helpers.js~axiosCore",
+    "access": "public",
+    "export": false,
+    "importPath": "reachhigh/src/utils/helpers.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "params": [
+      {
+        "name": "verb",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "urlPart",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "data",
+        "optional": true,
+        "types": [
+          "undefined"
+        ],
+        "defaultValue": "undefined"
+      },
+      {
+        "name": "serverToken",
+        "optional": true,
+        "types": [
+          "undefined"
+        ],
+        "defaultValue": "undefined"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 145,
+    "kind": "function",
+    "name": "setClassProps",
+    "memberof": "src/utils/helpers.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/helpers.js~setClassProps",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/utils/helpers.js",
+    "importStyle": "{setClassProps}",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "params": [
+      {
+        "name": "arr",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "self",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 146,
+    "kind": "function",
+    "name": "renderIf",
+    "memberof": "src/utils/helpers.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/helpers.js~renderIf",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/utils/helpers.js",
+    "importStyle": "{renderIf}",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "params": [
+      {
+        "name": "condition",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "content",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 147,
+    "kind": "function",
+    "name": "getData",
+    "memberof": "src/utils/helpers.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/helpers.js~getData",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/utils/helpers.js",
+    "importStyle": "{getData}",
+    "description": null,
+    "lineNumber": 52,
+    "undocument": true,
+    "params": [
+      {
+        "name": "urlPart",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "token",
+        "optional": true,
+        "types": [
+          "undefined"
+        ],
+        "defaultValue": "undefined"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 148,
+    "kind": "function",
+    "name": "postData",
+    "memberof": "src/utils/helpers.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/helpers.js~postData",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/utils/helpers.js",
+    "importStyle": "{postData}",
+    "description": null,
+    "lineNumber": 54,
+    "undocument": true,
+    "params": [
+      {
+        "name": "urlPart",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "data",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 149,
+    "kind": "function",
+    "name": "patchData",
+    "memberof": "src/utils/helpers.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/helpers.js~patchData",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/utils/helpers.js",
+    "importStyle": "{patchData}",
+    "description": null,
+    "lineNumber": 56,
+    "undocument": true,
+    "params": [
+      {
+        "name": "urlPart",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "data",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 150,
+    "kind": "function",
+    "name": "runInActionUtil",
+    "memberof": "src/utils/helpers.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/utils/helpers.js~runInActionUtil",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/utils/helpers.js",
+    "importStyle": "{runInActionUtil}",
+    "description": null,
+    "lineNumber": 58,
+    "undocument": true,
+    "params": [
+      {
+        "name": "self",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "prop",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "data",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 151,
+    "kind": "function",
+    "name": "getInitialProps",
+    "memberof": "src/utils/helpers.js",
+    "generator": false,
+    "async": true,
+    "static": true,
+    "longname": "src/utils/helpers.js~getInitialProps",
+    "access": "public",
+    "export": true,
+    "importPath": "reachhigh/src/utils/helpers.js",
+    "importStyle": "{getInitialProps}",
+    "description": null,
+    "lineNumber": 65,
+    "undocument": true,
+    "params": [
+      {
+        "name": "ctx",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "urlPart",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "kind": "index",
+    "content": "# ReachHigh (Enle - Test)\nReachHigh is building a personalized career plan to help early-stage Sales & Marketing professionals improve their skills, and advance in their careers.\n\n## Current functionality\nA user has the ability to:\n\n1. Register for the platform.\n1. Login if already registered.\n2. Select personal goals\n3. See a list of tasks based on selected goals\n4. View a task\n5. Indicate completed a task and see number of tasks left.\n\n## Stack\n* ReactJS (library for building user interfaces)\n* NextJS (for Server-side rendering)\n* MobX (for state management)\n* Axios (http client)\n* Eslint (For linting)\n* Esdoc (full app wide documentation within 'documentation' folder).\n* Jest (for testing).\n\n## Genral Setup For Development\n\nClone this repository, install dependencies and start application:\n\n```bash\ngit clone git@github.com:ekpo-d/reachHigh-fe.git\ncd reachHigh-fe\nyarn\n```\nCreate a file called `.env` in the project root and add the project's environment variables based on the sample file.\n\n```bash\nyarn dev # For development, starts up eslint, jest and next JS.\n```\n\n## Other useful commands\n* `yarn docs` - generates documentation\n* `yarn lint` - runs linter (eslint)\n* `yarn lint-test` - runs eslint and jest in parallel\n",
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\n  \"name\": \"reachhigh\",\n  \"version\": \"0.1.0\",\n  \"private\": true,\n  \"watch\": {\n    \"docs\": \"{pages,src/assets,components/common}/**/*.*\"\n  },\n  \"scripts\": {\n    \"dev\": \"npm-run-all --parallel lint-test next-dev\",\n    \"next-dev\": \"next dev\",\n    \"build\": \"next build\",\n    \"start\": \"next start\",\n    \"docs-watch\": \"npm-watch docs\",\n    \"test\": \"node ./node_modules/.bin/jest --watchAll\",\n    \"docs\": \"./node_modules/.bin/esdoc\",\n    \"lint\": \"node_modules/.bin/esw\",\n    \"lint-watch\": \"node_modules/.bin/esw --watch\",\n    \"lint-test\": \"npm-run-all --parallel lint-watch test\"\n  },\n  \"jest\": {\n    \"collectCoverage\": true,\n    \"coverageReporters\": [\n      \"json\",\n      \"html\"\n    ],\n    \"testMatch\": [\n      \"**/tests/**/*.js\"\n    ],\n    \"snapshotSerializers\": [\n      \"./node_modules/enzyme-to-json/serializer\"\n    ],\n    \"modulePathIgnorePatterns\": [\n      \"./tests/mocks\"\n    ]\n  },\n  \"dependencies\": {\n    \"@babel/plugin-proposal-class-properties\": \"7.1.0\",\n    \"@babel/plugin-proposal-decorators\": \"7.1.0\",\n    \"@sentry/browser\": \"^5.7.1\",\n    \"@zeit/next-sass\": \"^1.0.1\",\n    \"@zeit/next-source-maps\": \"0.0.4-canary.1\",\n    \"axios\": \"^0.19.0\",\n    \"dotenv\": \"^8.2.0\",\n    \"dotenv-webpack\": \"^1.7.0\",\n    \"js-cookie\": \"^2.2.1\",\n    \"mobx\": \"^5.14.0\",\n    \"mobx-react\": \"5.4.4\",\n    \"next\": \"9.1.1\",\n    \"next-cookies\": \"^1.1.3\",\n    \"node-sass\": \"^4.12.0\",\n    \"react\": \"16.10.2\",\n    \"react-dom\": \"16.10.2\"\n  },\n  \"devDependencies\": {\n    \"babel-eslint\": \"^10.0.3\",\n    \"enzyme\": \"^3.9.0\",\n    \"enzyme-adapter-react-16\": \"^1.12.1\",\n    \"enzyme-react-16-adapter-setup\": \"^0.1.0\",\n    \"enzyme-to-json\": \"^3.3.5\",\n    \"esdoc\": \"^1.1.0\",\n    \"esdoc-custom-theme\": \"^1.4.2\",\n    \"esdoc-ecmascript-proposal-plugin\": \"^1.0.0\",\n    \"esdoc-jsx-plugin\": \"^1.0.0\",\n    \"esdoc-standard-plugin\": \"^1.0.0\",\n    \"eslint\": \"^5.16.0\",\n    \"eslint-config-airbnb\": \"^17.1.0\",\n    \"eslint-plugin-import\": \"^2.16.0\",\n    \"eslint-plugin-jsx-a11y\": \"^6.2.1\",\n    \"eslint-plugin-react\": \"^7.12.4\",\n    \"eslint-watch\": \"^5.0.1\",\n    \"jest\": \"^24.7.1\",\n    \"npm-run-all\": \"^4.1.5\",\n    \"npm-watch\": \"^0.6.0\"\n  }\n}\n",
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "__docId__": 152,
+    "kind": "testFile",
+    "name": "tests/index.js",
+    "content": "import { shallow } from \"enzyme\";\nimport React from \"react\";\n\nimport App from \"../pages/index\";\n\ndescribe(\"With Enzyme\", () => {\n  it('App shows \"A simple example repo\" in a <p> tag', () => {\n    const app = shallow(<App />);\n    expect(app.find(\"p\").text()).toEqual(\"A simple example repo\");\n  });\n});",
+    "static": true,
+    "longname": "/Users/ekpodavid/Programming/Web/Enle/test/Dev/reachHigh-fe/tests/index.js",
+    "access": null,
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 153,
+    "kind": "test",
+    "name": "describe0",
+    "testId": 0,
+    "memberof": "tests/index.js",
+    "testDepth": 0,
+    "static": true,
+    "longname": "tests/index.js~describe0",
+    "access": null,
+    "description": "With Enzyme",
+    "lineNumber": 6
+  },
+  {
+    "__docId__": 154,
+    "kind": "test",
+    "name": "it1",
+    "testId": 1,
+    "memberof": "tests/index.js~describe0",
+    "testDepth": 1,
+    "static": true,
+    "longname": "tests/index.js~describe0.it1",
+    "access": null,
+    "description": "App shows \"A simple example repo\" in a <p> tag",
+    "lineNumber": 7
+  }
+]

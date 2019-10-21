@@ -1,0 +1,97 @@
+@media screen and (min-width: 1200px){
+  #tasks .tile {
+    height: 270px;
+    
+    .body p {
+      height: 48px;
+    }
+  }
+}
+@media screen and (max-width: 1440px){
+}
+@media screen and (max-width: 1366px){
+  #home {
+    .intro .text-content {
+      padding: 0 50px;
+    }
+  }
+  #tasks .second-row .one {
+    flex: 4;
+  }
+}
+@media screen and (max-width: 1200px){
+  #home {
+    .intro .text-content {
+      margin: 100px;
+    }
+  }
+}
+@media screen and (max-width: 1024px){
+  #home {
+    nav .link {
+      margin-right: 20px;
+    }
+    .top-wrapper {
+      padding: 0;
+    }
+    .bottom {
+      position: static;
+    }
+  }
+}
+@media screen and (max-width: 768px){
+  #auth {
+    height: 100vh;
+  }
+  #goals .tile {
+    display: block;
+    padding: 20px;
+  }
+  #horizontal-navigation img {
+    margin-bottom: 0;
+  }
+}
+@media screen and (max-width: 576px){
+  #home {
+    .intro .text-content {
+      margin: 70px 0;
+    }
+    .intro h1 {
+      font-size: 2em;
+    }
+    .bottom .col-sm-6 {
+      border: 0;
+      border-top: 1px solid white;
+    }
+  }
+  #auth {
+    height: auto;
+
+    .content {
+      padding: 20px;
+      min-width: 350px;
+    }
+  }
+  .signin {
+    height: 100vh !important;
+  }
+  #goals, #tasks {
+    padding: 30px;
+    height: auto;
+  }
+  #tasks {
+    padding: 30px 20px;
+    .second-row {
+      display: block;
+  
+      .two {
+        margin-top: 30px;
+      }
+      .btn-curve-purple {
+        width: 100%;
+      }
+    }
+  }
+}
+@media screen and (max-width: 320px){
+}

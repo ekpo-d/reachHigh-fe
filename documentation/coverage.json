@@ -1,0 +1,126 @@
+{
+  "coverage": "39.72%",
+  "expectCount": 73,
+  "actualCount": 29,
+  "files": {
+    "src/components/auth/SignIn.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        14
+      ]
+    },
+    "src/components/auth/SignUp.js": {
+      "expectCount": 2,
+      "actualCount": 1,
+      "undocumentLines": [
+        14
+      ]
+    },
+    "src/components/goals/Goals.js": {
+      "expectCount": 5,
+      "actualCount": 1,
+      "undocumentLines": [
+        14,
+        24,
+        28,
+        76
+      ]
+    },
+    "src/components/home/Home.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/navigation/HorizontalNavigation.js": {
+      "expectCount": 1,
+      "actualCount": 1,
+      "undocumentLines": []
+    },
+    "src/components/tasks/TaskView.js": {
+      "expectCount": 4,
+      "actualCount": 1,
+      "undocumentLines": [
+        11,
+        15,
+        69
+      ]
+    },
+    "src/components/tasks/Tasks.js": {
+      "expectCount": 4,
+      "actualCount": 1,
+      "undocumentLines": [
+        13,
+        17,
+        63
+      ]
+    },
+    "src/stores/AuthStore.js": {
+      "expectCount": 16,
+      "actualCount": 8,
+      "undocumentLines": [
+        19,
+        20,
+        24,
+        27,
+        30,
+        37,
+        43,
+        52
+      ]
+    },
+    "src/stores/GoalsStore.js": {
+      "expectCount": 19,
+      "actualCount": 9,
+      "undocumentLines": [
+        24,
+        25,
+        44,
+        53,
+        56,
+        59,
+        62,
+        65,
+        68,
+        251
+      ]
+    },
+    "src/stores/UIStore.js": {
+      "expectCount": 3,
+      "actualCount": 2,
+      "undocumentLines": [
+        11
+      ]
+    },
+    "src/stores/index.js": {
+      "expectCount": 3,
+      "actualCount": 3,
+      "undocumentLines": []
+    },
+    "src/utils/auth.js": {
+      "expectCount": 4,
+      "actualCount": 0,
+      "undocumentLines": [
+        6,
+        11,
+        31,
+        38
+      ]
+    },
+    "src/utils/helpers.js": {
+      "expectCount": 9,
+      "actualCount": 0,
+      "undocumentLines": [
+        8,
+        23,
+        10,
+        16,
+        52,
+        54,
+        56,
+        58,
+        65
+      ]
+    }
+  }
+}
