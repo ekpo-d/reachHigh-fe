@@ -1,10 +1,10 @@
 import React from 'react';
 import Head from 'next/head';
-import nextCookie from 'next-cookies';
 
 import Tasks from '../src/components/tasks/Tasks';
 import { withAuthSync } from '../src/utils/auth';
 import HorizontalNavigation from '../src/components/navigation/HorizontalNavigation';
+import { checkAuth } from '../src/utils/helpers';
 import '../src/assets/styles/app.scss';
 
 const TasksPage = () => (
@@ -18,15 +18,6 @@ const TasksPage = () => (
   </div>
 );
 
-TasksPage.getInitialProps = async ctx => {
-  const { token } = nextCookie(ctx);
-
-  if (!token) {
-    ctx.res.writeHead(302, {
-      Location: '/signin',
-    });
-    ctx.res.end();
-  }
-};
+TasksPage.getInitialProps = async ctx => checkAuth(ctx);
 
 export default withAuthSync(TasksPage);

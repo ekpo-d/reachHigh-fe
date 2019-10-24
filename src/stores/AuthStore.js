@@ -56,7 +56,7 @@ export default class AuthStore {
   };
 
 	/**
-   * Function used to validate that all fields are filled
+   * Method used to validate that all fields are filled
 	 */
   validatefields = () => {
     return !!this.signupData.name
@@ -67,7 +67,7 @@ export default class AuthStore {
   }
 
 	/**
-   * Function used to validate that the password
+   * Method used to validate that the password
    * and re-type password fields match
 	 */
   validatePasswordMatch = () => {
@@ -77,7 +77,7 @@ export default class AuthStore {
   }
 
 	/**
-   * Function used to validate an email address
+   * Method used to validate an email address
 	 */
 	@action
   validateEmail = () => {
@@ -98,7 +98,7 @@ export default class AuthStore {
   }
 
 	/**
-   * Function used to validate the password entered
+   * Method used to validate the password entered
    * is equal or more than 6 characters
 	 */
 	@action
@@ -120,7 +120,7 @@ export default class AuthStore {
   }
 
 	/**
-   * Login Function,
+   * Login method,
    * It take's the input credentials
    * and makes and authentication request.
    * Saves the token and user id, then navigates to the goals page.
@@ -175,7 +175,7 @@ export default class AuthStore {
 	}
 
 	/**
-   * Signup Function,
+   * Signup Method,
    * It take's the input credentials
    * and request to create a new user.
    * On creation of user, it makes a authentication request
@@ -258,8 +258,8 @@ export default class AuthStore {
 	}
 
 	/**
-	 * Function used to assign values to the members of
-	 *  this class from an external function or a react component.
+	 * Method used to assign values to the members of
+	 * this class from an external methods or a react component.
 	 * @param {Array} arr - An array key:value pairs of class members and their values
 	 * @param {Object} self - Refers to the class itself or a member.
 	 */

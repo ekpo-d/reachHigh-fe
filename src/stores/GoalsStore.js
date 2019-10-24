@@ -68,7 +68,7 @@ export default class GoalsStore {
 	tasks = []
 
 	/**
-   * selectGoal function,
+   * selectGoal method,
 	 * Add a goal to the array of selected goals.
 	 * @param {object} e - DOM event.
 	 * @param {string} id - goal id.
@@ -85,7 +85,7 @@ export default class GoalsStore {
 	};
 
 	/**
-   * getUser function,
+   * getUser method,
 	 * Gets the user object in the event of a browser refresh.
 	 */
 	@action
@@ -114,7 +114,7 @@ export default class GoalsStore {
 	};
 
 	/**
-   * saveGoals function,
+   * saveGoals method,
 	 * Saves selected goals in the user object
 	 * @param {object} e - DOM event.
 	 */
@@ -149,7 +149,7 @@ export default class GoalsStore {
 	};
 
 	/**
-   * calcTasks function,
+   * calcTasks method,
 	 * Generated tasks off the user selected goals.
 	 */
 	@action
@@ -190,7 +190,7 @@ export default class GoalsStore {
 	}
 
 	/**
-   * getTasks function,
+   * getTasks method,
 	 * Gets the list og tasks afer getting the user object
 	 * and generating tasks.
 	 */
@@ -201,7 +201,7 @@ export default class GoalsStore {
 	};
 
 	/**
-   * getTask function,
+   * getTask method,
 	 * Gets the currently clicked task.
 	 * @param {string} taskId - task id of current task being viewed.
 	 */
@@ -221,7 +221,7 @@ export default class GoalsStore {
 	};
 
 	/**
-   * onTaskComplete function,
+   * onTaskComplete method,
 	 * Saved completed task into user object.
 	 * @param {string} taskId - task id of task to be marked as completed.
 	 */
