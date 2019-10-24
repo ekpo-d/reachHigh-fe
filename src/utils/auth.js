@@ -5,7 +5,7 @@ import cookie from 'js-cookie';
 
 const signin = ({ token }) => {
   cookie.set('token', token, { expires: 1 });
-  Router.push('/goals');
+  Router.push('/goals', '/goals');
 };
 
 const auth = ctx => {
@@ -22,7 +22,7 @@ const auth = ctx => {
 
   // We already checked for server. This should only happen on client.
   if (!token) {
-    Router.push('/signin');
+    Router.push('/signin', '/signin');
   }
 
   return token;
@@ -32,14 +32,14 @@ const logout = () => {
   cookie.remove('token');
   // to support logging out from all windows
   window.localStorage.setItem('logout', Date.now());
-  Router.push('/signin');
+  Router.push('/signin', '/signin');
 };
 
 const withAuthSync = WrappedComponent => {
   const Wrapper = props => {
     const syncLogout = event => {
       if (event.key === 'logout') {
-        Router.push('/signin');
+        Router.push('/signin', '/signin');
       }
     };
 

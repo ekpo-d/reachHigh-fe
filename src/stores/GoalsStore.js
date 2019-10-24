@@ -131,7 +131,7 @@ export default class GoalsStore {
 			await this.calcTasks();
 		})
 		.then(() => {
-			Router.push('/tasks');
+			Router.push('/tasks', '/tasks');
 		})
 		.catch(() => {
 			runInActionUtil(this, 'goalsSaving', false);
@@ -196,8 +196,8 @@ export default class GoalsStore {
 	 */
 	@action
 	getTasks = () => {
-		this.getUser()
-		.then(() => this.calcTasks());
+		if (!this.user.email) this.getUser().then(this.calcTasks);
+		else if (!this.tasks.length) this.calcTasks();
 	};
 
 	/**

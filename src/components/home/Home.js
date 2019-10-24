@@ -15,14 +15,14 @@ const Home = () => (
             <nav>
               <div className="row">
                 <div className="col-6">
-                  <Link href="/">
+                  <Link href="/" as="/">
                     <span className="logo">
                       <img src="/static/images/logo.svg" alt="ReachHigh" />
                     </span>
                   </Link>
                 </div>
                 <div className="col-6 nav-right">
-                  <Link href="/signup">
+                  <Link href="/signup" as="/signup">
                     <span className="link">
                       Sign Up
                     </span>
@@ -41,7 +41,7 @@ const Home = () => (
                 Ready to get started? Take the short quiz
                 below and get your personalized path today.
               </p>
-              <Link href="/signup">
+              <Link href="/signup" as="/signup">
                 <span className="btn-curve-purple">
                   Get Started
                 </span>

@@ -22,7 +22,9 @@ const renderIf = (condition, content) => {
 
 const axiosCore = (verb, urlPart, data = null, serverToken = null) => {
 	const token = serverToken || cookie.get('token');
-	if (!token) Router.push('/signin');
+	if (!token) {
+    Router.push('/signin', '/signin');
+	}
 
 	if (verb === 'get') {
 		return axios[verb](
@@ -66,7 +68,7 @@ const getInitialProps = async (ctx, urlPart) => {
 	const { token } = nextCookie(ctx);
   const redirectOnError = () => {
 		if (window !== 'undefined') {
-			Router.push('/signin');
+			Router.push('/signin', '/signin');
 		}
 		else {
 			ctx.res.writeHead(302, {

@@ -134,6 +134,10 @@ export default class AuthStore {
     if (this.loginCredentials.email && this.loginCredentials.password) {
       await postData('authentication', this.loginCredentials)
       .then(async response => {
+        const { accessToken, user: { _id } } = response.data;
+        cookie.set('u_id', _id, { expires: 1 });
+        await signin({ token: accessToken });
+
         runInAction(() => {
           this.loginCredentials.email = '';
           this.loginCredentials.password = '';
@@ -141,10 +145,6 @@ export default class AuthStore {
           this.loginErrors.message = '';
           this.loginLoading = false;
         });
-
-        const { accessToken, user: { _id } } = response.data;
-        cookie.set('u_id', _id, { expires: 1 });
-        await signin({ token: accessToken });
       })
       .catch(error => {
         if (error.response.status === 401) {

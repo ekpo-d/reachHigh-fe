@@ -32,7 +32,7 @@ class Tasks extends Component {
                 <div className="footer">
                   <Link
                     href={{
-                      pathname: `tasks/${task._id}`,
+                      pathname: 'tasks/[id]',
                       query: task,
                     }}
                     as={`tasks/${task._id}`}

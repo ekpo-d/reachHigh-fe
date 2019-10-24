@@ -14,7 +14,7 @@ class SignIn extends Component {
   render() {
     return (
       <section id="auth" className="signin">
-        <Link href="/">
+        <Link href="/" as="/">
           <span className="logo">
             <img src="/static/images/logo_white.svg" alt="ReachHigh" />
           </span>
@@ -84,7 +84,7 @@ class SignIn extends Component {
             <p className="login">
               Don’t have an account?
               {' '}
-              <Link href="/signup">
+              <Link href="/signup" as="/signup">
                 <span className="link">
                   Sign Up
                 </span>

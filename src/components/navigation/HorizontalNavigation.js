@@ -9,7 +9,7 @@ const HorizontalNavigation = () => (
   <nav id="horizontal-navigation">
     <div className="row">
       <div className="col-6">
-        <Link href="/">
+        <Link href="/" as="/">
           <span className="logo">
             <img src="/static/images/logo.svg" alt="ReachHigh" />
           </span>
