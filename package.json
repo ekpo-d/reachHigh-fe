@@ -11,11 +11,12 @@
     "build": "next build",
     "start": "next start -p $PORT",
     "docs-watch": "npm-watch docs",
-    "test": "node ./node_modules/.bin/jest --watchAll",
+    "test": "node ./node_modules/.bin/jest",
+    "test-watch": "node ./node_modules/.bin/jest --watchAll",
     "docs": "./node_modules/.bin/esdoc",
     "lint": "node_modules/.bin/esw",
     "lint-watch": "node_modules/.bin/esw --watch",
-    "lint-test": "npm-run-all --parallel lint-watch test"
+    "lint-test": "npm-run-all --parallel lint-watch test-watch"
   },
   "jest": {
     "collectCoverage": true,

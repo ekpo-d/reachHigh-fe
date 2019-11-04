@@ -1,0 +1,11 @@
+{
+  "name": "reachhigh",
+  "description": "",
+  "environments": {
+    "test": {
+      "scripts": {
+        "test": "yarn test"
+      }
+    }
+  }
+}
